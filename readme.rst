@@ -1,12 +1,7 @@
 ###################
-Que es QuickJobs?
+QuickJobs
 ###################
 
-A ti te lo voy a decir...
-
-*******************
-Release Information
-*******************
 
 Aqui van a figurar los objetivos y el timepo en el que busco cumplirlos.
 
